@@ -117,7 +117,7 @@ const RBY: {[name: string]: MoveData} = {
   'Seismic Toss': {bp: 1, type: 'Fighting'},
   'Self-Destruct': {bp: 130, type: 'Normal'},
   'Skull Bash': {bp: 100, type: 'Normal'},
-  Slash: {bp: 70, type: 'Normal'},
+  Slash: {bp: 75, type: 'Normal'},
   Sludge: {bp: 65, type: 'Poison'},
   'Soft-Boiled': {bp: 0, category: 'Status', type: 'Normal'},
   'Solar Beam': {bp: 120, type: 'Grass'},

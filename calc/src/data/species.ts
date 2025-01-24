@@ -213,7 +213,7 @@ const RBY: {[name: string]: SpeciesData} = {
   },
   Fearow: {
     types: ['Normal', 'Flying'],
-    bs: {hp: 65, at: 90, df: 65, sp: 100, sl: 61},
+    bs: {hp: 75, at: 90, df: 65, sp: 100, sl: 61},
     weightkg: 38,
   },
   Flareon: {types: ['Fire'], bs: {hp: 65, at: 130, df: 60, sp: 65, sl: 110}, weightkg: 25},
